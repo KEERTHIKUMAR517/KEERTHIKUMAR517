@@ -1,7 +1,6 @@
 - 👋 KEERTHI KUMAR
 - 👀 I’m interested in Data Science | ML | AI enthusiast
 - 💞️ I’m looking to collaborate on Machine Learning Projects
-- 🌱 I’m looking to collaborate on Machine Learning Projects
 - 📫 How to reach me https://www.linkedin.com/in/keerthi-kumar-1966a01a8/
 
 <!---
